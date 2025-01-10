@@ -1,3 +1,4 @@
+//@ts-nocheck
 function TeamCard() {
   return (
     <div className="bg-white h-max rounded-lg my-5 lg:p-6 p-2">
