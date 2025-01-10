@@ -1,6 +1,6 @@
 # KoinX Frontend Assignment
 
-A frontend application that displays cryptocurrency data using the Coingecko API and TradingView widgets. The application is designed to be responsive and closely follows the provided Figma design.
+A application that displays cryptocurrency data using the Coingecko API and TradingView widgets. The application is designed to be responsive and closely follows the provided Figma design.
 
 ## Features
 
