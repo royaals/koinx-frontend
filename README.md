@@ -12,6 +12,10 @@ A frontend application that displays cryptocurrency data using the Coingecko API
 - Responsive UI design.
 - Dynamic token display based on URL.
 
+## Hosted Link
+
+You can access the live application at [KoinX.devprojects.world](https://koinx.devprojects.world).
+
 ## Tech Stack
 
 - React
@@ -24,20 +28,23 @@ A frontend application that displays cryptocurrency data using the Coingecko API
 ## Installation
 
 1. Clone the repository:
-  ```bash
-  git clone https://github.com/royaals/koinx-frontend.git
-  cd koinx-frontend
-  ```
+
+```bash
+git clone https://github.com/royaals/koinx-frontend.git
+cd koinx-frontend
+```
 
 2. Install dependencies:
-  ```bash
-  npm install
-  ```
+
+```bash
+npm install
+```
 
 3. Start the development server:
-  ```bash
-  npm run dev
-  ```
+
+```bash
+npm run dev
+```
 
 ## API References
 
@@ -47,16 +54,16 @@ A frontend application that displays cryptocurrency data using the Coingecko API
 ## Sample API Responses
 
 - `/simple/price` API:
+
   ```json
   {
     "bitcoin": {
-    "inr": 5697177,
-    "inr_24h_change": 3.6596920153414336,
-    "usd": 68726,
-    "usd_24h_change": 3.6767559459431545
+      "inr": 5697177,
+      "inr_24h_change": 3.6596920153414336,
+      "usd": 68726,
+      "usd_24h_change": 3.6767559459431545
     }
   }
   ```
 
 - `/search/trending` API: [Sample Response](https://www.notion.so/Sample-API-Response-search-trending-e85623b447e94deb9da67d3b112b8761?pvs=21)
-
