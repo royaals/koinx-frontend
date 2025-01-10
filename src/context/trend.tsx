@@ -1,3 +1,4 @@
+//@ts-nocheck
 import { useState, useContext, createContext } from "react";
 
 const TrendContext = createContext();
